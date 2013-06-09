@@ -24,4 +24,5 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ###Links
 - [ggplot2 from Hadley Wickham](http://www.mathtube.org/lecture/video/visualising-data-ggplot2)
+- [A Few Useful Things to Know About Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
 
