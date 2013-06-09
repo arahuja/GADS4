@@ -18,6 +18,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Assignment from 06/10 due 06/17](https://github.com/arahuja/GADS4/wiki/ggplot-Assignment)
 
 ###Handouts
+- [ggplot](https://github.com/arahuja/GADS4/wiki/Basic-reference-for-ggplot2)
 - [Basic Modeling in R]
 
 ###Links
