@@ -17,7 +17,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ###Assignment
 - [Assignment from 06/10 due 06/17](https://github.com/arahuja/GADS4/wiki/ggplot-Assignment)
-- [Example Submission for Assignment 1](https://github.com/ajschumacher/ds4hw)
+- [Example Submission for Assignment 1](https://github.com/ajschumacher/ds4hw/hw1/)
 
 ###Handouts
 - [ggplot](https://github.com/arahuja/GADS4/wiki/Basic-reference-for-ggplot2)
