@@ -20,7 +20,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Example Submission for Assignment 1](https://github.com/ajschumacher/ds4hw/tree/master/hw1)
 
 ###Handouts
-- [ggplot](https://github.com/arahuja/GADS4/wiki/Basic-reference-for-ggplot2)
+- [Exploring census data](https://github.com/arahuja/GADS4/wiki/Exploring-census-data) / [ggplot basics](https://github.com/arahuja/GADS4/wiki/Basic-reference-for-ggplot2)
 - [Basic Modeling in R]
 
 ###Links
