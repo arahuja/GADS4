@@ -21,7 +21,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ###Handouts
 - [Exploring census data](https://github.com/arahuja/GADS4/wiki/Exploring-census-data) / [ggplot basics](https://github.com/arahuja/GADS4/wiki/Basic-reference-for-ggplot2)
-- [Basic Modeling in R]
+- [KNN for Supervised Learning](https://github.com/arahuja/GADS4/wiki/KNN---Iris-Walkthrough)
 
 ###Links
 - [ggplot2 from Hadley Wickham](http://www.mathtube.org/lecture/video/visualising-data-ggplot2)
