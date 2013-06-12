@@ -1,5 +1,11 @@
 Welcome to the General Assembly Data Science Handout page.  Here I'll be assembling handouts, walkthrough and links for everyone to have some references to follow-up after class.
 
+##General Resources
+####Books
+- [Elements of Statistical Learning (great reference for the theory behind a lot of the techniques)](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
+- [Data Mining With R (good case studies and code examples)](http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/)
+- [Machine Learning For Hackers (more code examples and walkthroughs)](https://github.com/johnmyleswhite/ML_for_Hackers)
+
 ##Lesson 1:
 
 ###Slides
@@ -32,4 +38,15 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ###Links
 - [ggplot2 from Hadley Wickham](http://www.mathtube.org/lecture/video/visualising-data-ggplot2)
 - [A Few Useful Things to Know About Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
+
+##Lesson 3
+###Slides
+- [Lesson 3 Slides ](https://github.com/arahuja/GADS4/blob/master/slides/lesson03.pdf)
+
+###Handouts
+- [Regression and Formulas in R](https://github.com/arahuja/GADS4/wiki/Regression-in-R)
+
+###Links
+- [Princeton Guide to Linear Modeling](http://data.princeton.edu/R/linearModels.html)
+- [Summary of LM](http://blog.yhathq.com/posts/r-lm-summary.html)
 
