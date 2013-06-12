@@ -2,6 +2,9 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ##Lesson 1:
 
+###Slides
+- [ Lesson 1 Slides ](https://github.com/arahuja/GADS4/blob/master/slides/lesson01.pdf)
+
 ###Handouts
 - [Unix Basics: Intro to the Command Line](https://github.com/arahuja/GADS4/wiki/Intro-to-the-command-line)
 - [R Basics](https://github.com/arahuja/GADS4/wiki/Some-Basic-R-Commands)
@@ -14,6 +17,9 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 
 ##Lesson 2:
+
+###Slides
+- [ Lesson 2 Slides ](https://github.com/arahuja/GADS4/blob/master/slides/lesson02.pdf)
 
 ###Assignment
 - [Assignment from 06/10 due 06/17](https://github.com/arahuja/GADS4/wiki/ggplot-Assignment)
