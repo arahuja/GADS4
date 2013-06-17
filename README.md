@@ -50,3 +50,15 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Princeton Guide to Linear Modeling](http://data.princeton.edu/R/linearModels.html)
 - [Summary of LM](http://blog.yhathq.com/posts/r-lm-summary.html)
 
+
+##Lesson 4
+###Slides
+- [Lesson 4 Slides ](https://github.com/arahuja/GADS4/blob/master/slides/lesson04.pdf)
+
+###Handouts
+- [Regression and Regularlization](https://github.com/arahuja/GADS4/wiki/Regression-and-Regularization)
+- [Logistic Regression](https://github.com/arahuja/GADS4/wiki/Logistic-Regression)
+
+###Links
+
+
