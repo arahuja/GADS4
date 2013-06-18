@@ -54,11 +54,11 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ##Lesson 4
 ###Assignment
 - [Assignment from 06/17 due 06/24](https://github.com/arahuja/GADS4/wiki/Regression-Assignment)
-- 
+
 ###Slides
 - [Lesson 4 Slides ](https://github.com/arahuja/GADS4/blob/master/slides/lesson04.pdf)
 
 ###Handouts
 - [Regression and Regularlization](https://github.com/arahuja/GADS4/wiki/Regression-and-Regularization)
-- [Logistic Regression](https://github.com/arahuja/GADS4/wiki/Logistic-Regression)
+- [Lesson 4 R History](https://raw.github.com/arahuja/GADS4/master/RSessions/Lesson04/lesson04_history.Rhistory)
 
