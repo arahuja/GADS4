@@ -62,7 +62,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Regression and Regularlization](https://github.com/arahuja/GADS4/wiki/Regression-and-Regularization)
 - [Lesson 4 R History](https://raw.github.com/arahuja/GADS4/master/RSessions/Lesson04/lesson04_history.Rhistory)
 
-##Lesson5
+##Lesson 5
 
 ###Slides
 - [Lesson 5 Slides ](https://github.com/arahuja/GADS4/blob/master/slides/lesson05.pdf)
