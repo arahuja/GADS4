@@ -68,11 +68,11 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Lesson 5 Slides ](https://github.com/arahuja/GADS4/blob/master/slides/lesson05.pdf)
 
 ###Handouts
--[Logistic Regression in R](https://github.com/arahuja/GADS4/wiki/Logistic-Regression-in-R)
+- [Logistic Regression in R](https://github.com/arahuja/GADS4/wiki/Logistic-Regression-in-R)
 
 ###Links
--[Logistic Regression R Tutorial from Stanford NLP](http://nlp.stanford.edu/manning/courses/ling289/logistic.pdf)
--[Fast Logistic Regression: Mahout](https://cwiki.apache.org/MAHOUT/logistic-regression.html)
--[Fast Logistic Regression: Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki)
--[Fast Logistic Regression: LIBLINEAR](http://www.csie.ntu.edu.tw/~cjlin/liblinear/)
+- [Logistic Regression R Tutorial from Stanford NLP](http://nlp.stanford.edu/manning/courses/ling289/logistic.pdf)
+- [Fast Logistic Regression: Mahout](https://cwiki.apache.org/MAHOUT/logistic-regression.html)
+- [Fast Logistic Regression: Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki)
+- [Fast Logistic Regression: LIBLINEAR](http://www.csie.ntu.edu.tw/~cjlin/liblinear/)
 
