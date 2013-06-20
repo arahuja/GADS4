@@ -69,6 +69,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ###Handouts
 - [Logistic Regression in R](https://github.com/arahuja/GADS4/wiki/Logistic-Regression-in-R)
+- [Odds Ratio Explanation](http://www.wright.edu/~thaddeus.tarpey/ES714glm.pdf)
 
 ###Links
 - [Logistic Regression R Tutorial from Stanford NLP](http://nlp.stanford.edu/manning/courses/ling289/logistic.pdf)
