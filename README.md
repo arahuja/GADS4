@@ -80,5 +80,6 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ##Lession 6
 
 ###Handouts
+- [More basics for regression homework](https://github.com/arahuja/GADS4/wiki/More-basics-for-regression-homework)
 - [The shortest introduction to knitr](https://github.com/arahuja/GADS4/wiki/The-shortest-introduction-to-knitr)
-
+- [More explanation for numbers in logistic regression](https://github.com/arahuja/GADS4/wiki/More-explanation-for-numbers-in-logistic-regression)
