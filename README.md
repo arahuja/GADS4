@@ -69,11 +69,22 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ###Handouts
 - [Logistic Regression in R](https://github.com/arahuja/GADS4/wiki/Logistic-Regression-in-R)
-- [Odds Ratio Explanation](http://www.wright.edu/~thaddeus.tarpey/ES714glm.pdf)
 
 ###Links
 - [Logistic Regression R Tutorial from Stanford NLP](http://nlp.stanford.edu/manning/courses/ling289/logistic.pdf)
 - [Fast Logistic Regression: Mahout](https://cwiki.apache.org/MAHOUT/logistic-regression.html)
 - [Fast Logistic Regression: Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki)
 - [Fast Logistic Regression: LIBLINEAR](http://www.csie.ntu.edu.tw/~cjlin/liblinear/)
+- [Odds Ratio Explanation](http://www.wright.edu/~thaddeus.tarpey/ES714glm.pdf)
 
+##Lesson 6
+###Slides
+- [Lesson 6 Slides ](https://github.com/arahuja/GADS4/blob/master/slides/lesson06.pdf)
+
+###Handouts
+
+###Links
+- [Logistic Regression Walkthrough](http://www.mc.vanderbilt.edu/gcrc/workshop_files/2004-11-12.pdf)
+- [History of Bayes](http://lesswrong.com/lw/774/a_history_of_bayes_theorem/)
+- [Mathematical Exploration of Bayes Theorem](http://edepot.wur.nl/134085)
+- [Naive Bayes v. Logistic Regression](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
