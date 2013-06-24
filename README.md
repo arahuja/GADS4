@@ -77,3 +77,8 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Fast Logistic Regression: Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki)
 - [Fast Logistic Regression: LIBLINEAR](http://www.csie.ntu.edu.tw/~cjlin/liblinear/)
 
+##Lession 6
+
+###Handouts
+- [The shortest introduction to knitr](https://github.com/arahuja/GADS4/wiki/The-shortest-introduction-to-knitr)
+
