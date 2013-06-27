@@ -1,0 +1,171 @@
+# IPython log file
+
+get_ipython().magic(u'logstart lesson7.log')
+4 + 4
+5 *2343
+5**2
+l = [ 1,2,3,5]
+l
+len(l)
+l[0]
+l[1]
+x = 3
+x
+d = {}
+d['key'] = 7
+d
+def mean_absolute_error( x, y):
+return 0
+def mean_absolute_error( x, y):
+    return x-y / len(x)
+import math
+def mean_absolute_error( x, y):
+    return math.abs(x-y) / len(x)
+mean_absolute_error(5,3)
+def mean_absolute_error( x, y):
+    return math.fabs(x-y)/len(x)
+mean_absolute_error(5,3)
+mean_absolute_error([5],[3])
+for i in range(1,10):
+    print i
+    
+for i in range(10):
+    print i
+    
+for i in range(1,10,2):
+    print i
+    
+def mean_absolute_error( x, y):
+    for (xi, yi) in zip(x,y):
+        print xi,yi
+        
+mean_absolute_error([5],[3])
+def mean_absolute_error( x, y):
+   total = 0 
+   for (xi, yi) in zip(x,y):
+       total = total + math.fabs(xi -yi)
+   return total/len(x)
+mean_absolute_error([5],[3])
+def mean_squared_error(x,y):
+    total = 0
+    for (xi, yi) in zip(x,y):
+        total += (xi - yi)**2
+    return total/len(x)
+mean_squared_error([0,0],[2,3])
+def mean_squared_error(x,y):
+    total = 0.0
+    for (xi, yi) in zip(x,y):
+        total += (xi -yi)**2
+    return total/len(x)
+mean_squared_error([0,0],[2,3])
+x2 =  [ i for i in x ] 
+x = [1,2,3,4]
+x2 =  [ i for i in x ]
+x2
+x2 =  [ i**2 for i in x ]
+x2
+def mean_squared_error2(x,y):
+    new_list = [(xi -yi)**2 for (xi, yi) in zip(x,y)]
+    total = sum(new_list)
+    return total/len(x)
+mean_squared_error2([0,0],[2,3])
+def mean_squared_error2(x,y):
+    new_list = [(xi -yi)**2 for (xi, yi) in zip(x,y)]
+    total = float(sum(new_list))
+    return total/len(x)
+mean_squared_error2([0,0],[2,3])
+t = 5
+u = t
+t = 7
+t
+u
+t = [5]
+u = t
+t[0] = 7
+t
+u
+import sklearn
+from sklearn.datasets import load_iris
+iris = load_iris()
+iris.data
+iris.target
+from  sklearn import neighbors
+from  sklearn import neighbors
+model = neighbors.KNearestNeighbors()
+model = neighbors.KNeighborsClassifier()
+model.fit(iris.data, iris.target)
+get_ipython().magic(u'pinfo neighbors.KNeighborsClassifier')
+model = model.fit(iris.data, iris.target)
+print model
+predictions = model.predict(iris.target)
+predictions = model.predict(iris.data)
+prediction[1:10]
+predictions[1:10]
+model.score(iris.data, iris.target)
+from sklearn.cross_validation import cross_val_score
+get_ipython().magic(u'pinfo cross_val_score')
+cross_val_score(model, iris.data, iris.target)
+get_ipython().magic(u'pinfo cross_val_score')
+cross_val_score(model, iris.data, iris.target, cv=10)
+from sklearn import linear_model
+model = linear_model.LogisticRegression()
+model = model.fit(iris.data, iris.target)
+model.score(iris.data, iris.target)
+cross_val_score(model, iris.data, iris.target, cv=10)
+from sklearn.cross_validation import train_test_split
+get_ipython().magic(u'pinfo train_test_split')
+from sklearn.datasets import load_files
+categories = [
+    'alt.atheism',
+    'talk.religion.misc',
+    'comp.graphics',
+    'sci.space',
+]
+twenty_train_subset = load_files('Downloads/20news-bydate-train/', categories=categories, charset='latin-1')
+twenty_train_subset = load_files('20news-bydate-train/', categories=categories, charset='latin-1')
+twenty_test_subset = load_files('20news-bydate-test/', categories=categories, charset='latin-1')
+twenty_train_subset[0]
+twenty_train_subset.data[0]
+twenty_train_subset.target[0]
+from sklearn.feature_extraction.text import CountVectorizer
+get_ipython().magic(u'pinfo CountVectorizer')
+v = CountVectorizer()
+text_features = v.fit_transform(twenty_train_subset)
+get_ipython().magic(u'pinfo CountVectorizer')
+text_features = v.fit_transform(twenty_train_subset.data)
+text_features
+text_features.toarray()
+v.feature_names()
+get_ipython().magic(u'pinfo CountVectorizer')
+v.get_feature_names()
+v.get_feature_names()[1:10]
+text_features[4][5]
+text_features.toarray()[4][5]
+v = CountVectorizer(max_features=100)
+text_features = v.fit_transform(twenty_train_subset.data)
+v.get_feature_names()[1:10]
+v = CountVectorizer(max_features=100, stopwords='english')
+v = CountVectorizer(max_features=100, stopword='english')
+get_ipython().magic(u'pinfo CountVectorizer')
+v = CountVectorizer(max_features=100, stop_words='english')
+text_features = v.fit_transform(twenty_train_subset.data)
+v.get_feature_names()[1:10]
+text_features[0]
+text_features.toarray()[0]
+from sklearn.naivebayes import MultinomialNB
+from sklearn.naive_bayes import MultinomialNB
+model = MultinomialNB()
+model.fit(text_features, twenty_train_subset.target)
+cross_val_score(model, text_features, twenty_train_subset.target)
+v = CountVectorizer( stop_words='english')
+text_features = v.fit_transform(twenty_train_subset.data)
+cross_val_score(model, text_features, twenty_train_subset.target)
+cross_val_score(linear_model.LogisticRegression)(, text_features, twenty_train_subset.target)
+cross_val_score(linear_model.LogisticRegression(), text_features, twenty_train_subset.target)
+cross_val_score(linear_model.LogisticRegression(), text_features, twenty_train_subset.target, cv=5)
+categories = [
+    'alt.atheism',
+    'talk.religion.misc',
+    'comp.graphics',
+    'sci.space',
+]
