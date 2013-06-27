@@ -100,6 +100,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Python Class Log](https://raw.github.com/arahuja/GADS4/master/RSessions/lesson7.log)
 
 ###Links
+- [Scikits-learn User Guide](http://scikit-learn.org/stable/user_guide.html)
 - [Interactive Python Tutorial](http://www.learnpython.org/page/Basic%20Operators)
 - [Introduction to Python](http://nbviewer.ipython.org/urls/bitbucket.org/amjoconn/watpy-learning-to-code-with-python/raw/3441274a54c7ff6ff3e37285aafcbbd8cb4774f0/notebook/Learn%20to%20Code%20with%20Python.ipynb)
 - [Python Data Structures](http://nbviewer.ipython.org/urls/github.com/profjsb/python-bootcamp/raw/master/DataFiles_and_Notebooks/02_AdvancedDataStructures/data_structures.ipynb)
