@@ -97,6 +97,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ##Lesson 7
 ###Handouts
 - [Introduction to Python](https://github.com/arahuja/GADS4/wiki/Python-Basics)
+- [Python Class Log](https://raw.github.com/arahuja/GADS4/master/RSessions/lesson7.log)
 
 ###Links
 - [Interactive Python Tutorial](http://www.learnpython.org/page/Basic%20Operators)
