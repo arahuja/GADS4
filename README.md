@@ -108,3 +108,8 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Ranking NFL Teams w/Pandas, Sklearn](http://nbviewer.ipython.org/urls/raw.github.com/seanjtaylor/NFLRanking/master/NFL%2520Rankings.ipynb)
 - [Logistic Regression w/ Statsmodel - Well Switching in Bangledesh](http://nbviewer.ipython.org/urls/raw.github.com/carljv/Will_it_Python/master/ARM/ch5/arsenic_wells_switching.ipynb)
 - [XKCD Style Plots in Python](http://nbviewer.ipython.org/url/jakevdp.github.com/downloads/notebooks/XKCD_plots.ipynb)
+
+## Lesson 8
+###Handouts
+- [A note on consistent columns for modeling in R](https://github.com/arahuja/GADS4/wiki/A-note-on-consistent-columns-for-modeling-in-R)
+- [vw example solution for regression homework](https://github.com/ajschumacher/ds4hw/tree/master/hw02-linreg)
