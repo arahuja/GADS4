@@ -110,6 +110,9 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [XKCD Style Plots in Python](http://nbviewer.ipython.org/url/jakevdp.github.com/downloads/notebooks/XKCD_plots.ipynb)
 
 ## Lesson 8
+###Slides
+- [Lesson 8 Slides ](https://github.com/arahuja/GADS4/blob/master/slides/lesson08.pdf)
+
 ###Handouts
 - [A note on consistent columns for modeling in R](https://github.com/arahuja/GADS4/wiki/A-note-on-consistent-columns-for-modeling-in-R)
 - [vw example solution for regression homework](https://github.com/ajschumacher/ds4hw/tree/master/hw02-linreg)
