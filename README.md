@@ -113,3 +113,6 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ###Handouts
 - [A note on consistent columns for modeling in R](https://github.com/arahuja/GADS4/wiki/A-note-on-consistent-columns-for-modeling-in-R)
 - [vw example solution for regression homework](https://github.com/ajschumacher/ds4hw/tree/master/hw02-linreg)
+
+###Assignment
+- [Assignment from 7/1 due 7/10: logistic regression and naive Bayes](https://github.com/arahuja/GADS4/wiki/Logistic-Regression-and-Naive-Bayes-Assignment)
