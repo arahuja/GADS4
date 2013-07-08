@@ -122,3 +122,18 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ###Assignment
 - [Assignment from 7/1 due 7/10: logistic regression and naive Bayes](https://github.com/arahuja/GADS4/wiki/Logistic-Regression-and-Naive-Bayes-Assignment)
+
+## Lesson 9
+### Slides
+- [Lesson 9 Slides](https://github.com/arahuja/GADS4/blob/master/slides/lesson09.pdf)
+
+### Handouts
+- [Random Forests for Classification](https://github.com/arahuja/GADS4/wiki/Random-Forests)
+
+### Links 
+- [Random Forests in Python](http://blog.yhathq.com/posts/random-forests-in-python.html)
+- [Random Forests for Kaggle](http://www.kaggle.com/c/titanic-gettingStarted/details/getting-started-with-random-forests)
+- [Random Forests and Performance Metrics](http://citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics/)
+
+
+
