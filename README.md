@@ -140,6 +140,9 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ### Slides
 - [Lesson 10 Slides]((https://github.com/arahuja/GADS4/blob/master/slides/lesson10.pdf)
 
+### Handouts
+- [Final Project Requirements](https://raw.github.com/arahuja/GADS4/master/GADS4_Final_Project_Reqs.pdf)
+
 ### Links
 - [SVM in Sklearn](http://scikit-learn.org/stable/modules/svm.html)
 - [SVM Visualization](http://www.youtube.com/watch?v=3liCbRZPrZA)
