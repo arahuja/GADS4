@@ -142,6 +142,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ### Handouts
 - [Final Project Requirements](https://raw.github.com/arahuja/GADS4/master/GADS4_Final_Project_Reqs.pdf)
+- [A simple solution to the logistic regression and naive Bayes homework](https://github.com/arahuja/GADS4/wiki/A-simple-solution-to-the-Logistic-Regression-and-Naive-Bayes-assignment)
 
 ### Links
 - [SVM in Sklearn](http://scikit-learn.org/stable/modules/svm.html)
