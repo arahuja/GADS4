@@ -136,4 +136,12 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Random Forests and Performance Metrics](http://citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics/)
 
 
+## Lesson 10
+### Slides
+- [Lesson 10 Slides]((https://github.com/arahuja/GADS4/blob/master/slides/lesson10.pdf)
 
+### Links
+- [SVM in Sklearn](http://scikit-learn.org/stable/modules/svm.html)
+- [SVM Visualization](http://www.youtube.com/watch?v=3liCbRZPrZA)
+- [A Users' Guide to SVMs](http://pyml.sourceforge.net/doc/howto.pdf)
+- [SVM: Hype?](http://www.bioconductor.org/help/course-materials/2008/BioC2008/labs/ml/ML1.pdfu)
