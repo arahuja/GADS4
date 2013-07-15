@@ -148,3 +148,15 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [SVM Visualization](http://www.youtube.com/watch?v=3liCbRZPrZA)
 - [A Users' Guide to SVMs](http://pyml.sourceforge.net/doc/howto.pdf)
 - [SVM: Hype?](http://www.bioconductor.org/help/course-materials/2008/BioC2008/labs/ml/ML1.pdfu)
+
+## Lesson 11
+### Slides
+- [Lesson 11 Slides]((https://github.com/arahuja/GADS4/blob/master/slides/lesson11.pdf)
+
+###Links
+- [Blogpost on Insult Detection](http://blog.kaggle.com/2012/09/26/impermium-andreas-blog/)
+- [Github Code of Insult Detection Solution](https://github.com/amueller/kaggle_insults/)
+- [Choosing a ML Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
+- [KMeans IPython Notebook] (http://nbviewer.ipython.org/urls/raw.github.com/temporaer/tutorial_ml_gkbionics/master/2%2520-%2520KMeans.ipynb)
+- [Text Clustering in Sklearn](http://scikit-learn.github.io/scikit-learn.org/dev/auto_examples/document_clustering.html)
+- [Cloudera ML KMeans](http://blog.cloudera.com/blog/2013/03/cloudera_ml_data_science_tools/)
