@@ -152,7 +152,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ## Lesson 11
 ### Slides
-- [Lesson 11 Slides]((https://github.com/arahuja/GADS4/blob/master/slides/lesson11.pdf)
+- [Lesson 11 Slides](https://github.com/arahuja/GADS4/blob/master/slides/lesson11.pdf)
 
 ###Handouts
 - [KMeans Exercise](https://github.com/arahuja/GADS4/wiki/KMeans-In-Python)
