@@ -138,7 +138,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ## Lesson 10
 ### Slides
-- [Lesson 10 Slides]((https://github.com/arahuja/GADS4/blob/master/slides/lesson10.pdf)
+- [Lesson 10 Slides](https://github.com/arahuja/GADS4/blob/master/slides/lesson10.pdf)
 
 ### Handouts
 - [Final Project Requirements](https://raw.github.com/arahuja/GADS4/master/GADS4_Final_Project_Reqs.pdf)
