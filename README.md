@@ -164,3 +164,14 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [KMeans IPython Notebook] (http://nbviewer.ipython.org/urls/raw.github.com/temporaer/tutorial_ml_gkbionics/master/2%2520-%2520KMeans.ipynb)
 - [Text Clustering in Sklearn](http://scikit-learn.github.io/scikit-learn.org/dev/auto_examples/document_clustering.html)
 - [Cloudera ML KMeans](http://blog.cloudera.com/blog/2013/03/cloudera_ml_data_science_tools/)
+
+## Lesson 12
+###Slides
+- [Lesson 12 Slides](https://github.com/arahuja/GADS4/blob/master/slides/lesson12.pdf)
+
+### Handouts
+- [Image Classification Exercise](https://www.dropbox.com/s/s938v8xnn9ufo36/image_classification_ex.zip)
+
+###Links
+- [A Tutorial on PCA](http://www.snl.salk.edu/~shlens/pca.pdf)
+- [Stanford PCA Tutorial](http://ufldl.stanford.edu/wiki/index.php/PCA)
