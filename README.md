@@ -176,3 +176,8 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [A Tutorial on PCA](http://www.snl.salk.edu/~shlens/pca.pdf)
 - [Stanford PCA Tutorial](http://ufldl.stanford.edu/wiki/index.php/PCA)
 - [PCA w/ R Code](http://www.stat.cmu.edu/~cshalizi/490/pca/pca-handout.pdf)
+
+## Lesson 13
+
+### Links
+- [Walkthrough of Hulu's Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system/)
