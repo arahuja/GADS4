@@ -181,7 +181,9 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ## Lesson 13
 
-- [Alice's data file](https://dl.dropboxusercontent.com/u/66311100/user-brands.csv)
+- [Alice's slides on recommenders](https://github.com/arahuja/GADS4/raw/master/slides/lesson13-recommenders.pdf)
+- Alice's data file [(on dropbox)](https://dl.dropboxusercontent.com/u/66311100/user-brands.csv) [(in this repo)](https://raw.github.com/arahuja/GADS4/master/data/user-brands.csv)
+- [Alice's recommender.py](https://github.com/arahuja/GADS4/blob/master/samples/recommender.py)
 
 ### Links
 - [Walkthrough of Hulu's Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system/)
