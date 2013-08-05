@@ -187,3 +187,28 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ### Links
 - [Walkthrough of Hulu's Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system/)
+
+## Lesson 14
+###Slides
+- [Lesson 14 Slides](https://github.com/arahuja/GADS4/blob/master/slides/lesson14.pdf)
+
+
+###Handouts
+-[MySQL Tutorial](https://github.com/arahuja/GADS4/wiki/MySQL-Tutorial)
+
+### Links
+- [SQL SELECT](http://www.w3schools.com/sql/sql_select.asp)
+- [SQL GROUP BY](http://www.w3schools.com/sql/sql_groupby.asp)
+- [SQL INSERT][(http://www.w3schools.com/sql/sql_insert.asp)
+- [Comparison of NoSQL Databases](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
+
+##Lesson 15
+
+###Slides
+- [Lesson 15 Slides](https://github.com/arahuja/GADS4/blob/master/slides/lesson14.pdf)
+
+###Handouts
+- [Installing Hadoop](https://github.com/arahuja/GADS4/wiki/Installing-Hadoop)
+
+### Links
+
