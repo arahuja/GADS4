@@ -205,10 +205,12 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ##Lesson 15
 
 ###Slides
-- [Lesson 15 Slides](https://github.com/arahuja/GADS4/blob/master/slides/lesson14.pdf)
+- [Lesson 15 Slides](https://github.com/arahuja/GADS4/blob/master/slides/lesson15.pdf)
 
 ###Handouts
 - [Installing Hadoop](https://github.com/arahuja/GADS4/wiki/Installing-Hadoop)
 
 ### Links
-
+- [Yahoo Hadoop Tutorial](http://developer.yahoo.com/hadoop/tutorial/)
+- [Hadoop and Pig at Twitter](http://www.slideshare.net/kevinweil/hadoop-pig-and-twitter-nosql-east-2009)
+- [MapReduce Use Cases](http://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)
