@@ -209,6 +209,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ###Handouts
 - [Installing Hadoop](https://github.com/arahuja/GADS4/wiki/Installing-Hadoop)
+- [Hadoop and Pig](https://github.com/arahuja/GADS4/wiki/Hadoop-and-Pig)
 
 ### Links
 - [Yahoo Hadoop Tutorial](http://developer.yahoo.com/hadoop/tutorial/)
