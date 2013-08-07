@@ -199,7 +199,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ### Links
 - [SQL SELECT](http://www.w3schools.com/sql/sql_select.asp)
 - [SQL GROUP BY](http://www.w3schools.com/sql/sql_groupby.asp)
-- [SQL INSERT][(http://www.w3schools.com/sql/sql_insert.asp)
+- [SQL INSERT](http://www.w3schools.com/sql/sql_insert.asp)
 - [Comparison of NoSQL Databases](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
 
 ##Lesson 15
@@ -214,3 +214,4 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Yahoo Hadoop Tutorial](http://developer.yahoo.com/hadoop/tutorial/)
 - [Hadoop and Pig at Twitter](http://www.slideshare.net/kevinweil/hadoop-pig-and-twitter-nosql-east-2009)
 - [MapReduce Use Cases](http://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)
+- [Hadoop Streaming in Python](http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/)
