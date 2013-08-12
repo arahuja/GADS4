@@ -1,5 +1,8 @@
 Welcome to the General Assembly Data Science Handout page.  Here I'll be assembling handouts, walkthrough and links for everyone to have some references to follow-up after class.
 
+Final Project Order
+- [Order](https://github.com/arahuja/GADS4/wiki/Final-Project-Order)
+
 ##General Resources
 ####Books
 - [Elements of Statistical Learning (great reference for the theory behind a lot of the techniques)](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
